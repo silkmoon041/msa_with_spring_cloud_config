@@ -1,9 +1,9 @@
 spring:
-  datasource:
-    driver-class-name: org.h2.Driver
+  #datasource:
+    #driver-class-name: org.h2.Driver
     #url: jdbc:h2:mem:testdb
-    url: jdbc:h2:~/usertest
-    username: sa
+    #url: jdbc:h2:~/usertest
+    #username: sa
     #password: "{cipher}AQAWSIR02stGB4+C5Eipx7uDqnI266BhmfRNBpcrWez3/doYNvdW+5kvNLjCSWHxB5TIgDtrR5wIxVOWHntIghLFZ5RUrwQNL8UOuFFOJLOdrKNFZfTdEcNm0lLX85WEFp8OpUTbcZhnYp9z1M46DsctRfBIb4UzEC4G93kmDeCK5dygKusDvQBJ49o2DFcJu0I7SyVM+Pa6d2/gfkAAs5oLE4yYsMH+Qlikq4A8s5e/Skjlxnd636cJp7SuVMWGq31Un3d9uL3U1I3rcmE6XuSKpz6fHt4sgpHIOrK8iyleKo4LjVgUJY86zY09Ep68GOZ4E6JuWLl5z9ehXw+5LaZv8hlc/lOYryVwPVm6mla07Y+lajPggch4uIrvb/KBTJ8="
 
 token:
