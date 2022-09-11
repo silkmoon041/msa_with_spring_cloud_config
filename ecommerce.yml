@@ -1,6 +1,7 @@
 token:
   expiration_time: 864000000
-  secret: '{cipher}AQBXFlimROV1VV22GaqhGnGBaHYduiKrXMYky6FLYFUAHrTdF3DyIlCVeaXWm6e6EiRWgdk2k7XnCAjcD1Z7kLVKxeXcbVfkVG45F19sE0EKu/MLv2ILQaSUgBdaJSNsxzQQzfvLUc9hDUdX+jA5NUDO6ywZCBmHk6gq3cXNdU3QvuILy/vY6b06gV+3GIRSHbnmZXJ4bKnRr9vAEM4s+zirByaekFKxaVU/DJmHD7D+Ht3ZIrIdX0iwPt3GUGi+vIVyQto7xh/Rczv7slI+gpUE/hMW1KaixPnvk5xOTFFlDTd+LixbaXA+5jJtC99pyio/Tj/2kim3NCkVqA9hRXub32cuYT7hBorf9/DuhrLFCCRIAhm32TSsaQPQLY+DmCEdLsbte43VujtgOgjjXGps'
+  secret: "{cipher}AQBXFlimROV1VV22GaqhGnGBaHYduiKrXMYky6FLYFUAHrTdF3DyIlCVeaXWm6e6EiRWgdk2k7XnCAjcD1Z7kLVKxeXcbVfkVG45F19sE0EKu/MLv2ILQaSUgBdaJSNsxzQQzfvLUc9hDUdX+jA5NUDO6ywZCBmHk6gq3cXNdU3QvuILy/vY6b06gV+3GIRSHbnmZXJ4bKnRr9vAEM4s+zirByaekFKxaVU/DJmHD7D+Ht3ZIrIdX0iwPt3GUGi+vIVyQto7xh/Rczv7slI+gpUE/hMW1KaixPnvk5xOTFFlDTd+LixbaXA+5jJtC99pyio/Tj/2kim3NCkVqA9hRXub32cuYT7hBorf9/DuhrLFCCRIAhm32TSsaQPQLY+DmCEdLsbte43VujtgOgjjXGps"
 
 gateway:
-  ip: 127.0.0.1
+  #  ip: 127.0.0.1
+  ip: apigateway-service
